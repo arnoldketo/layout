@@ -11,6 +11,8 @@ Images may fail to load
 HTML CSS
 ## Support and contact details
 Incase of any queries please email:arnoldjohn20@gmail.com Please feel free to make any additions to the code
+## Link
+arnoldketo.github.io/layout
 ### 
 MIT License
 
