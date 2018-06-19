@@ -1,0 +1,20 @@
+body {
+  background-color: yellow;
+
+}
+.line1{
+  font-size: 50px;
+  font-style: italic;
+  font-family: fantasy;
+}
+.header{
+  font-family: fantasy;
+}
+.line {
+  text-decoration: underline;
+  font-family: cursive;
+  fotnt-size: 20px;
+}
+.layout {
+  font-family: cursive;
+}
