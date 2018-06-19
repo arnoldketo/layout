@@ -1,5 +1,7 @@
 body {
-  background-color: yellow;
+  background-image: url("../images/wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 .line1{
@@ -18,3 +20,4 @@ body {
 .layout {
   font-family: cursive;
 }
+body
